@@ -1,6 +1,4 @@
-Learn Python
 📚 Table of Contents
-
 = Data Types
   - Strings (str)
   - Numbers (int, float)
@@ -27,7 +25,3 @@ Learn Python
   1. Difference
   2. Optional arguments
   3. Keyword arguments -> for more readability and clean code
-
-Positional & Optional Arguments
-
-Keyword Arguments (for clearer and more readable code)
