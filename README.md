@@ -21,7 +21,7 @@
 - Functions
   1. Functions That Perform Actions (void)
   2. Functions That Return Values
-= Arguments & Parameters
+- Arguments & Parameters
   1. Difference
   2. Optional arguments
   3. Keyword arguments -> for more readability and clean code
